@@ -15,6 +15,4 @@ My hobbies include league of legends & stock trading
 
 [A little more about me](https://businessjournaldaily.com/walker-shapes-clay-learns-lessons/)
 
-![alt text](../images/avatar.png)
-
 [website]: http://animatrapparel.com
