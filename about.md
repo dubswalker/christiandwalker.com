@@ -4,8 +4,9 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+“Love your family, work super hard, live your passion.”
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Hello, nice to meet you. My name is Christian D. Walker. My nickname is Dubs. I am from Farrell,Pennsylvania. I currently attend Allegheny college with a double major in business economics and computer science.
+
+I am an entrepreneur. I have always been invested in service work and giving back to the community. My life goal is to become a philanthropist and venture capitalist. I will give back to my family and hometown. 
