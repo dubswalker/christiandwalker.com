@@ -10,4 +10,4 @@ categories: jekyll update
 I had the priviledge to assist this project during my 481 Software Innovation 2 class. My contribution included working on an issue tracker, working on the markdown file and codecov integration. I also created a [logo] variations for the entire project itself. When we first started the project I took lead in the direction of how we would like the program to work. Then after discussing how we would code this a lot of it was flushed out and we were put into a position of using flask. I am not familiar with flask so I took a backseat with respect to coding this project, but I did assist on coding issues and the directon of the project. This [logo] was created using the Adobe Suite's Fireworks, Photoshop and exported with Illustrator.
 
 [Advis-a-Gator]: https://github.com/GatorEducator/advisagator
-[logo]: hhttps://raw.githubusercontent.com/GatorEducator/advisagator/master/.github/advisagator.png
+[logo]: https://raw.githubusercontent.com/GatorEducator/advisagator/master/.github/advisagator.png
